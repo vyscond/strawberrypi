@@ -47,3 +47,24 @@ echo '
 }
 ' > /root/moon/moon.cfg
 
+echo 'setting up boot startup script'
+ 
+echo "
+[Unit]
+Description=Moon Server
+After=network.target
+ 
+[Service]
+PIDFile=/root/moon/pid
+ExecStart=/usr/bin/python2 /usr/bin/moon.py /root/moon/moon.cfg start &> 
+/dev/null &
+ExecStop=/usr/bin/python2 /usr/bin/moon.py /root/moon/moon.cfg stop & 
+/dev/null &
+ 
+[Install]
+WantedBy=multi-user.target
+" > /usr/lib/systemd/system/moon.service
+ 
+systemctl enable moon.service
+ 
+echo 'done!'
