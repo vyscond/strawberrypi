@@ -1,0 +1,615 @@
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][147][Planet][__init__] - loading orbit configs [bgn]
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][159][Planet][__init__] - loading orbit configs [end]
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][169][Planet][launch_expeditions] - Checking Moon list sent by user
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][181][Planet][launch_expeditions] - Traveling to ['war', 'death']
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][187][Planet][launch_expeditions] - Build Thread-safe Queues with no maximum size
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][195][Planet][launch_expeditions] - Enqueue tasks on "send_queue" object
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][201][Planet][launch_expeditions] - send_queue = 100/100tasks
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][205][Planet][launch_expeditions] - Starting up Process Pool
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][238][Expedition][expedition] - Expedition to death is launched
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:22:56][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:22:56][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:22:56][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:22:56][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:22:56][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:22:56][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:23:6][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:6][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:6][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:6][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:23:6][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:23:6][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:23:16][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:16][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:16][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:16][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:23:16][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:23:16][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:23:25][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:25][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:25][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:25][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:23:25][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:23:25][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:23:35][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:35][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:35][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:35][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:23:35][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to d[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][238][Expedition][expedition] - Expedition to war is launched
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:22:46][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:22:57][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:22:57][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:22:57][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:22:57][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:22:57][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:22:57][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:23:7][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:7][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:7][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:7][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:23:7][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:23:7][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:23:17][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:17][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:17][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:17][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:23:17][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:23:17][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:23:28][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:28][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:28][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:28][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:23:28][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:23:28][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:23:38][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:38][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:38][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:38][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:23:38][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:23:38][/usr/lieath
+[2013/11/12 - 22:23:35][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:23:45][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:45][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:45][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:45][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:23:45][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:23:45][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:23:55][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:55][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:55][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:55][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:23:55][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:23:55][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:24:5][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:5][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:5][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:5][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:24:5][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:24:5][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:24:15][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:15][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:15][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:15][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:24:15][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:24:15][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:24:24][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:24][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:24][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:24][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:24:24][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:24:24][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:24:35][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:35][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:35][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task tb/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:23:49][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:49][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:49][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:49][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:23:49][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:23:49][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:23:59][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:23:59][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:23:59][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:23:59][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:23:59][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:23:59][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:24:10][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:10][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:10][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:10][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:24:10][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:24:10][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:24:20][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:20][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:20][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:20][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:24:20][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:24:20][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:24:31][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:31][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:31][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:31][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:24:31][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:24:31][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:24:41][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:41][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:41][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:41][/usr/lib/python2.7/site-packageo send
+[2013/11/12 - 22:24:35][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:24:35][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:24:35][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:24:45][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:45][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:45][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:45][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:24:45][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:24:45][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:25:4][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:4][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:4][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:4][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:25:4][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:25:4][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:25:14][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:14][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:14][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:14][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:25:14][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:25:14][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:25:24][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:24][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:24][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:24][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:25:24][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:25:24][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:25:34][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closings/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:24:44][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:24:44][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:24:54][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:25:5][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:5][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:5][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:5][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:25:5][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:25:5][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:25:15][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:15][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:15][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:15][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:25:15][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:25:15][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:25:25][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:25][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:25][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:25][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:25:25][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:25:25][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:25:36][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:36][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:36][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:36][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:25:36][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:25:36][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:25:46][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:46][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][e connection
+[2013/11/12 - 22:25:34][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:34][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:34][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:25:34][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:25:34][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:25:44][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:44][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:44][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:44][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:25:44][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:25:44][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:25:54][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:54][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:54][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:54][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:25:54][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:25:54][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:26:3][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:3][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:3][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:3][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:26:3][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:26:3][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:26:13][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:13][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:13][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:13][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:26:13][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:26:13][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:26:23][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:23][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:23][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:23][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:26:23][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task toxpedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:46][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:46][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:25:46][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:25:46][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:25:57][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:25:57][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:25:57][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:25:57][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:25:57][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:25:57][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:26:7][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:7][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:7][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:7][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:26:7][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:26:7][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:26:17][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:17][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:17][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:17][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:26:17][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:26:17][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:26:28][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:28][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:28][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:28][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:26:28][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:26:28][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:26:38][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:38][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:38][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:38][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:26:38][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:26:38][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from wa death
+[2013/11/12 - 22:26:23][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:26:33][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:33][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:33][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:33][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:26:33][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:26:33][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:26:43][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:43][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:43][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:43][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:26:43][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:26:43][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:26:52][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:52][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:52][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:52][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:26:52][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:26:52][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:27:2][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:2][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:2][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:2][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:27:2][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:27:2][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:27:12][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:12][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:12][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:12][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:27:12][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:27:12][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:27:22][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:22][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:22][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get taskr
+[2013/11/12 - 22:26:49][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:49][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:49][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:49][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:26:49][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:26:49][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:26:59][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:26:59][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:26:59][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:26:59][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:26:59][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:26:59][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:27:10][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:10][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:10][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:10][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:27:10][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:27:10][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:27:21][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:21][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:21][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:21][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:27:21][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:27:21][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:27:31][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:31][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:31][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:31][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:27:31][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:27:31][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:27:41][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:41][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:41][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:41][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:27:41][/usr/lib to send
+[2013/11/12 - 22:27:22][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:27:22][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:27:22][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:27:32][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:32][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:32][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:32][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:27:32][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:27:32][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:27:42][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:42][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:42][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:42][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:27:42][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:27:42][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:27:51][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:51][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:51][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:51][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:27:51][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:27:51][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:28:1][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:1][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:1][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:1][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:28:1][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:28:1][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:28:11][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:11][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:11][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:11][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:28:11][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:28:11][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:28:21][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closi/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:27:41][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:27:52][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:27:52][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:27:52][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:27:52][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:27:52][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:27:52][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:28:2][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:2][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:2][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:2][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:28:2][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:28:2][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:28:12][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:12][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:12][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:12][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:28:12][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:28:12][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:28:23][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:23][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:23][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:23][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:28:23][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:28:23][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:28:33][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:33][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:33][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:33][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:28:33][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:28:33][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:28:44][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:44][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:44][/usr/lib/python2.7/site-packages/cong connection
+[2013/11/12 - 22:28:21][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:21][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:21][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:28:21][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:28:21][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:28:31][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:31][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:31][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:31][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:28:31][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:28:31][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:28:40][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:40][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:40][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:40][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:28:40][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:28:40][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:28:50][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:50][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:50][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:50][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:28:50][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:28:50][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:29:0][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:0][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:0][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:0][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:29:0][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:29:0][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:29:10][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:10][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:10][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:10][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:29:10][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task smos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:44][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:28:44][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:28:44][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:28:54][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:28:54][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:28:54][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:28:54][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:28:54][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:28:54][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:29:5][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:5][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:5][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:5][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:29:5][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:29:5][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:29:15][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:15][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:15][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:15][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:29:15][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:29:15][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:29:26][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:26][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:26][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:26][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:29:26][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:29:26][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:29:36][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:36][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:36][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:36][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:29:36][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:29:36][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:29:46][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expeditto death
+[2013/11/12 - 22:29:10][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:29:19][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:19][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:19][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:19][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:29:19][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:29:19][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:29:30][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:30][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:30][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:30][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:29:30][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:29:30][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:29:39][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:39][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:39][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:39][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:29:39][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:29:39][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:29:49][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:49][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:49][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:49][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:29:49][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:29:49][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:29:59][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:59][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:59][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:59][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:29:59][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:29:59][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:30:9][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:9][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:9][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - getion] - closing connection
+[2013/11/12 - 22:29:46][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:46][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:46][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:29:46][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:29:46][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:29:57][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:29:57][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:29:57][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:29:57][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:29:57][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:29:57][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:30:7][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:7][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:7][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:7][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:30:7][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:30:7][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:30:18][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:18][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:18][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:18][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:30:18][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:30:18][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:30:28][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:28][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:28][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:28][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:30:28][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:30:28][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - task to send
+[2013/11/12 - 22:30:9][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:30:9][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:30:9][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:30:19][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:19][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:19][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:19][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:30:19][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:30:19][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:30:29][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:29][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:29][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:29][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:30:29][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:30:29][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:30:38][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:38][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:38][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:38][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:30:48][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:48][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:48][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:48][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:30:48][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:30:48][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:30:58][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:58][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:58][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:58][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:30:58][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:30:58][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:31:8][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition]  22:30:39][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:30:49][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:30:49][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:30:49][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:30:49][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:30:49][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:30:49][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:31:0][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:31:0][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:31:0][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:31:0][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to war
+[2013/11/12 - 22:31:0][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to war
+[2013/11/12 - 22:31:0][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from war
+[2013/11/12 - 22:31:10][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:31:10][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:31:10][/usr/lib/python2.7/site-packages/cosmos.py][289][Expedition][expedition] - Expedition on war was a sucess! returning to home!
+- closing connection
+[2013/11/12 - 22:31:8][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:31:8][/usr/lib/python2.7/site-packages/cosmos.py][245][Expedition][expedition] - get task to send
+[2013/11/12 - 22:31:8][/usr/lib/python2.7/site-packages/cosmos.py][252][Expedition][expedition] - connecting to death
+[2013/11/12 - 22:31:8][/usr/lib/python2.7/site-packages/cosmos.py][256][Expedition][expedition] - sending task to death
+[2013/11/12 - 22:31:8][/usr/lib/python2.7/site-packages/cosmos.py][260][Expedition][expedition] - reading a response from death
+[2013/11/12 - 22:31:18][/usr/lib/python2.7/site-packages/cosmos.py][264][Expedition][expedition] - closing connection
+[2013/11/12 - 22:31:18][/usr/lib/python2.7/site-packages/cosmos.py][268][Expedition][expedition] - enqueue on recv_queue
+[2013/11/12 - 22:31:18][/usr/lib/python2.7/site-packages/cosmos.py][289][Expedition][expedition] - Expedition on death was a sucess! returning to home!
+[2013/11/12 - 22:31:18][/usr/lib/python2.7/site-packages/cosmos.py][221][Planet][launch_expeditions] - recv_queue = 100/100tasks
+[2013/11/12 - 22:31:18][/usr/lib/python2.7/site-packages/cosmos.py][228][Planet][launch_expeditions] - closing queue
+[2013/11/12 - 22:31:18][/usr/lib/python2.7/site-packages/cosmos.py][230][Planet][launch_expeditions] - return results

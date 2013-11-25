@@ -1,0 +1,7 @@
+{
+    "name" : "The Genetic Algorithm For TSPLib",
+    
+    "alias" : "gatsp" ,
+
+    "boot_module" : "tsp.ga_tsp"
+}
