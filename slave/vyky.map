@@ -1,0 +1,7 @@
+{
+    "name" : "The Genetic Algorithm For Symetric TSPLib Instances",
+    
+    "alias" : "vyky" ,
+
+    "boot_module" : "vyky.app"
+}
