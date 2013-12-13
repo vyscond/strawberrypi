@@ -5,7 +5,7 @@ if [ "@#" -lt 1 ]; then
 fi
 
 echo '[setup][copying .map file]'
-cp slave/vyky.map $1/moon/app_profiles
+cp `pwd`/strawberrypi/slave/vyky.map $1/moon/app_profiles
 
 echo '[setup][copying app folder]'
-cp -r slave/vyky $1/moon/apps
+cp -r `pwd`/strawberrypi/slave/vyky $1/moon/apps
