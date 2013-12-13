@@ -1,6 +1,6 @@
 echo '[installing base packages][python][git][cosmos][vyky]'
     
-    pacman -S --noconfirm python2 git
+    pacman -S --noconfirm python2
     
     git clone https://github.com/vyscond/cosmos.git
     
